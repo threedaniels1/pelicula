@@ -23,7 +23,7 @@
             position: relative;
         }
 
-        /* Estilos para el video de fondo */
+        
         #background-video {
             position: absolute;
             top: 0;
@@ -34,7 +34,7 @@
             z-index: -1;
         }
 
-        /* Estilos para el contenedor del formulario con efecto de castillo */
+        
         .form-container {
             background-image: url('castle-background.jpg');
             background-size: cover;
@@ -101,7 +101,7 @@
             background-color: #f44336;
         }
 
-        /* Hacer el diseño responsive */
+       
         @media (max-width: 600px) {
             h1 {
                 font-size: 2rem;
@@ -112,7 +112,7 @@
             }
         }
 
-        /* Estilos para las partículas de nieve */
+        
         .snowflake {
             position: absolute;
             top: -10px;
